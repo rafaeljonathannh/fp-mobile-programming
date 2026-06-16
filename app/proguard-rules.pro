@@ -1,0 +1,1 @@
+-keep class com.coffeebliss.data.local.entity.** { *; }
